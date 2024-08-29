@@ -1,0 +1,4 @@
+실제 파이썬 경로
+
+C:\Users\NK90\AppData\Local\Programs\Python\Python311
+
